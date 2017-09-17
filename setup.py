@@ -10,12 +10,12 @@ with open('README.rst') as readme_file:
 
 setup(
     name="pipsec",
-    version="0.0.1dev0",
+    version="0.0.1dev1",
     description="Security-hardened pip installer",
     long_description=readme,
     author="Benjamin Bach",
     author_email='benjamin@overtag.dk',
-    url='https://www.pytosquatting.org',
+    url='https://github.com/benjaoming/pipsec',
     packages=[],
     license="MIT",
     zip_safe=False,

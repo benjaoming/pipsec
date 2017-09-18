@@ -10,7 +10,7 @@ with open('README.rst') as readme_file:
 
 setup(
     name="pipsec",
-    version="0.0.1dev1",
+    version="0.0.1dev2",
     description="Security-hardened pip installer",
     long_description=readme,
     author="Benjamin Bach",
@@ -21,7 +21,7 @@ setup(
     zip_safe=False,
     keywords=('typosquatting',),
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',

@@ -1,7 +1,7 @@
 pipsec
 ======
 
-This is work in progress
+This is a placeholder for now - we squatted the name for a future project against malicious squatting!
 
 References:
 
